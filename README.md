@@ -1,3 +1,3 @@
-# Parte III Métodos de classificação
+# Parte III - Métodos de classificação
 
 **EM DESENVOLVIMENTO!!!**
